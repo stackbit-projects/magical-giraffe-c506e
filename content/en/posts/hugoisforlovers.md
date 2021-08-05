@@ -1,6 +1,6 @@
 +++
 title = "Getting Started with Hugo ciao a tutti "
-description = ""
+description = "ciao a tutti "
 tags = [
     "go",
     "golang",
