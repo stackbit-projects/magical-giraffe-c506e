@@ -14,7 +14,7 @@ categories = [
 menu = "main"
 +++
 
-## Step 1. Install Hugo
+## Step 1. Install Hugoxxx
 
 Go to [Hugo releases](https://github.com/spf13/hugo/releases) and download the
 appropriate version for your OS and architecture.
